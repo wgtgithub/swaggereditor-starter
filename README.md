@@ -13,5 +13,8 @@ ex. `cp cp -r swagger-ui-3.16.0/dist docs/swagger-ui/`
 ### run docker-compose
 ex. `docker-compose up -d web`
 
+### access your server using port 8000
+ex. http://hogehoge:8000
+
 enjoy.
 
