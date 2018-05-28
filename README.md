@@ -2,7 +2,7 @@
 
 ## setup flow
 ### clone this repository
-ex. 
+ex. `git clone https://github.com/wgtgithub/swaggereditor-starter.git`
 
 ### download swagger ui
 ex. `curl -LO https://github.com/swagger-api/swagger-ui/archive/v3.16.0.zip`
